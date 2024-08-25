@@ -32,4 +32,3 @@ For convenience, the simulation groups five bikes together and considers them as
 3. Download the Randomised-Traffic-Data.csv file in the same directory as the source code.
 4. Download SFML and link to the project. Take reference of the Youtube video: https://www.youtube.com/watch?v=2jOzJ8SIpr8&list=PL6xSOsbVA1eaJnHo_O6uB4qU8LZWzzKdo&index=3
 5. Now the Installation is complete You can run the code with any enviornment.
-# Project-Simulating-Traffic-Bhangagarh-Intersection
