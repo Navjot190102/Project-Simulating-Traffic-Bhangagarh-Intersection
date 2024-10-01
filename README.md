@@ -27,7 +27,7 @@ For convenience, the simulation groups five bikes together and considers them as
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prajyot1901/Project-Simulating-Traffic-Bhangagarh-Intersection.git
+   git clone https://github.com/Navjot190102/Project-Simulating-Traffic-Bhangagarh-Intersection.git
 2. Copy the source code from the file Simulator_test1/Simulator_Test1/Simulator.cpp
 3. Download the Randomised-Traffic-Data.csv file in the same directory as the source code.
 4. Download SFML and link to the project. Take reference of the Youtube video: https://www.youtube.com/watch?v=2jOzJ8SIpr8&list=PL6xSOsbVA1eaJnHo_O6uB4qU8LZWzzKdo&index=3
